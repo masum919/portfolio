@@ -1,10 +1,10 @@
 # Portfolio 
 
 ### Education
-Robotics and Mechatronics Engineering, PhD (2022-present) <br />
-Engineering Technology, MS (2021) <br />
-Robotics Engineering, MS(2019) <br />
-Mechanical Engineering, BS(2016)
+Robotics and Mechatronics Engineering, PhD (2022-present), DGIST, South Korea <br />
+Engineering Technology, MS (2021), KSU, USA <br />
+Robotics Engineering, MS(2019), DGIST, South Korea <br />
+Mechanical Engineering, BS, MIST, Bangladesh(2016)
 
 ### Skills
 SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, Blender, Arduino, Python, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE
