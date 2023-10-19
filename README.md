@@ -3,7 +3,7 @@
 ### Education
 Robotics and Mechatronics Engineering, PhD (2022-present) <br />
 Engineering Technology, MS (2021) <br />
-Robotics Engineerin, MS(2019) <br />
+Robotics Engineering, MS(2019) <br />
 Mechanical Engineering, BS(2016)
 
 ### Skills
