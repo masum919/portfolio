@@ -1,4 +1,6 @@
 title: A M Masum Bulbul Chowdhury 
 description: Robotics Engineer
 show_downloads: false
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
