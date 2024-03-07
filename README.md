@@ -14,7 +14,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
 - Developed an immersive 3D control scheme for magnetic microrobot and nanoparticle manipulation 
 - Tracked 3D position of microrobot and manipulated with an 8 coil Electromagnetic Actuation System 
 - Designed 3D phantoms mimicking human vasculatures 
-- Improved control performance by 20%
+- Improved control performance by 16.4%
 
 **2. Design and analysis of wire-driven robotic joints with applications for Minimally Invasive Surgeries** <br />
    This project was aimed to eliminate two major problems associated with Single Incision Laparoscopic Surgery (SILS): (1) Damage to on-site motors and sensors of surgical robots (2) Lack of multifunctionality 
