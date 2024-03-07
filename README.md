@@ -10,7 +10,7 @@ Mechanical Engineering, BS, MIST, Bangladesh(2016)
 SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, Blender, Arduino, Python, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE
 
 ### Projects
-**1. Virtual Reality-enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
+**1. Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
 - Developed an immersive 3D control scheme for magnetic microrobot and nanoparticle manipulation 
 - Tracked 3D position of microrobot and manipulated with an 8 coil Electromagnetic Actuation System 
 - Designed 3D phantoms mimicking human vasculatures 
