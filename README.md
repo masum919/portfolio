@@ -16,7 +16,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
 - Designed 3D phantoms mimicking human vasculatures 
 - Improved control performance by 16.4%
 
-  ![VRMR](https://github.com/masum919/portfolio/assets/138081981/3a917e3b-6c74-43d9-a73e-0f00564271c1)
+  ![VRMR](https://github.com/masum919/portfolio/assets/138081981/5a1ecaf2-f1b2-4b47-bb10-41597037b301)
 
 **2. Design and analysis of wire-driven robotic joints with applications for Minimally Invasive Surgeries** <br />
    This project was aimed to eliminate two major problems associated with Single Incision Laparoscopic Surgery (SILS): (1) Damage to on-site motors and sensors of surgical robots (2) Lack of multifunctionality 
