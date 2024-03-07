@@ -58,6 +58,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
 
 ### Publications
 - [Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles](https://doi.org/10.1002/aisy.202300793)
+- [Autonomous 3D positional control of a magnetic microrobots using reinforcement learning](https://doi.org/10.1038/s42256-023-00779-2)
 - [Development of a Self-Decoupled Wire-Driven Robotic Universal Joint Toward Medical Application](https://doi.org/10.1115/DMD2022-1016)
 - [Driven Multifunctional Manipulator for Single Incision Laparoscopic Surgery](https://doi.org/10.1115/DMD2020-9015)
 - [Design and Analysis of a Wire-Driven Multifunctional Robot for Single Incision Laparoscopic Surgery](https://doi.org/10.1115/DETC2020-22471)
