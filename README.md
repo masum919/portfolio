@@ -66,3 +66,4 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
 
 ### Awards
 DGIST Presidential Fellowship 
+- A 4-year scholarship awarded to selected few
