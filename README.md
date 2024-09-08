@@ -67,3 +67,6 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
 ### Awards
 DGIST Presidential Fellowship 
 - A 4-year scholarship awarded to selected few
+  
+### Git Repo
+- [A ros2 control implementation of a custom hardware interface (arduino) to send motor commands](https://github.com/masum919/ros2_control_custom_hardware_interface)
