@@ -70,3 +70,4 @@ DGIST Presidential Fellowship
   
 ### Git Repo
 - [A ros2 control implementation of a custom hardware interface (arduino) to send motor commands](https://github.com/masum919/ros2_control_custom_hardware_interface)
+- [A simple example of simulating a differential drive robot in Gazebo Harmonic](https://github.com/masum919/DiffDrive_Hyundai_Kona_ROS2_Gazebo_Harmonic)
