@@ -64,6 +64,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, 
   - Controlled a MAXON BLDC motor position with an EPOS controller
 - Performed kinematics and stress analysis and added safety mechanism to ensure user safety
   - Utilized SolidWorks for simulations
+- Designed a worm gear and mini clutch mechanism to switch between active and passive mode of operation
 - Devised mechanism for pinch force control to grasp different types of objects. The mechanism can generate a pinch force up to 15 N which is sufficient to perform 75% of daily activities
 
 **5. Development of micro-robotic systems for surgical treatment of chronic total occlusion** <br />
