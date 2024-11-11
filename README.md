@@ -7,7 +7,7 @@ Robotics Engineering, MS(2019), DGIST, South Korea <br />
 Mechanical Engineering, BS, MIST, Bangladesh(2016)
 
 ### Skills
-SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE
+SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex
 
 ### Projects
 **1. Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
@@ -91,3 +91,4 @@ DGIST Presidential Fellowship
 ### Git Repo
 - [A ros2 control implementation of a custom hardware interface (arduino) to send motor commands](https://github.com/masum919/ros2_control_custom_hardware_interface)
 - [A simple example of simulating a differential drive robot in Gazebo Harmonic](https://github.com/masum919/DiffDrive_Hyundai_Kona_ROS2_Gazebo_Harmonic)
+- [FANUC LR MATE 200iD Robot Arm Simulation ROS2](https://github.com/masum919/FANUC-LR-MATE200i)
