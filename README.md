@@ -7,7 +7,7 @@ Robotics Engineering, MS(2019), DGIST, South Korea <br />
 Mechanical Engineering, BS, MIST, Bangladesh(2016)
 
 ### Skills
-SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex
+SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex, StarUML
 
 ### Projects
 **1. Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
