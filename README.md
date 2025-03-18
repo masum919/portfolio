@@ -10,7 +10,20 @@ Mechanical Engineering, BS, MIST, Bangladesh(2016)
 SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex, StarUML
 
 ### Projects
-**1. Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
+**1. Dual Active Tilted Roller Actuation System (DATRAS) with an electromagnetic actuation system for vascular intervention**
+   A compact and leightweight (320g) actuator to control 2 DOF of flexible end-effectors. This robotic actuator far exceeds the performance of existing vascular intervention robots in terms of physical foorprint, portability, weight, cost and motion generation capabilities.
+   - Translation and rotation of vascular intervention tools are achieved in a single mechanism and the simplest mechanism
+   - Helical motion of end-effector is possible without any additional or special requirements
+   - Easily adjustable to fit different size tools
+   - Extremely modular and cheap
+   - Does not require a robotic arm or support structure
+   - VR based teleoperation interface
+
+
+   ![Image](https://github.com/user-attachments/assets/602f589c-460f-4cc5-8807-4042769d66f1)
+
+     
+**2. Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles**
    Micro and nano sized robots have huge potential in medical robotics as they can enable accurate and precise drug delivery to the target sites. However, controlling these tiny robots in complex vasculatures     is an extrememly challenging tasks. In this project I implement for the first time in the world, a VR controlled intuitive method of navigating microrobots inside complex geometries that is superior to         conventional open loop and closed loop control.
 - Developed micro and nano scale robot steering scheme with Virtual Reality (VR) inside small and complex geometries
   - Designed and coded VR environments with Unity 3D and C#
@@ -27,7 +40,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 
  ![1](https://github.com/user-attachments/assets/b6bb151d-2002-4373-bc54-cbf5eb561152)
 
-**2. Design and analysis of wire-driven robotic joints with applications for Minimally Invasive Surgeries** <br />
+**3. Design and analysis of wire-driven robotic joints with applications for Minimally Invasive Surgeries** <br />
    This project aimed to eliminate two major problems associated with Single Incision Laparoscopic Surgeries (SILS): (1) Damage to on-site motors and sensors of surgical robots (2) Lack of multifunctionality 
    or accommodating mulitple surgial tools in a confined space. To resolve these two issues I designed and developed a wire actuation system that enables remote placement of electronics and motors as well as 
    enable multifunctionality.
@@ -44,7 +57,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
   - Utilized MATLAB Robotics Toolbox
 - Improved surgical tool changing time by 30% leading to reduced fatigue and radiation exposure, and improved patient recovery time
 
-**3. Design and development of a robotic landing system for UAVs** <br />
+**4. Design and development of a robotic landing system for UAVs** <br />
    This project focused on building a self adjusting landing gear for UAVs for safe landing in uneven terrains.
 
 ![Landing gear](https://github.com/masum919/portfolio/assets/138081981/e8f9176c-370f-42d1-931e-71a57b3dd1c4)
@@ -52,7 +65,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 - Designed a mechanical self-adjusting robotic landing gear equipped with Force Resistive Sensors (FSR). The proposed mechanism improves the conventional skid or wheel landing mechanism by allowing adjustable landing on uneven grounds
 - Implemented a PID controller with the mechanism leading to a successful drone landing at maximum 12 degree ground inclination
 
-**4. An active orthosis with Tenodesis Effect for pinch force augmentation in activities of daily living** <br />
+**5. An active orthosis with Tenodesis Effect for pinch force augmentation in activities of daily living** <br />
      In this work, I had developed an inexpensive and simple orthosis to augment pinch grasp force for Spinal Cord Injury (SCI) patients with Tenodesis Effect. The orthosis was made to operate in both passive 
      and active mode. It had only one motor (MAXON DC) and no sensor. Most of the parts were 3D printed.
 
@@ -67,7 +80,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 - Designed a worm gear and mini clutch mechanism to switch between active and passive mode of operation
 - Devised mechanism for pinch force control to grasp different types of objects. The mechanism can generate a pinch force up to 15 N which is sufficient to perform 75% of daily activities
 
-**5. Development of micro-robotic systems for surgical treatment of chronic total occlusion** <br />
+**6. Development of micro-robotic systems for surgical treatment of chronic total occlusion** <br />
      I have built a FEM simulation model of an 8-core Electromagnetic Actuation System (EAS) with ANSYS MAXWELL. I have also simulated and analyzed the magnetic fields produced by the system to verify the real 
      system for microrobot manipulations.
 
