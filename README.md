@@ -1,13 +1,13 @@
 # Portfolio 
 
 ### Education
-Robotics and Mechatronics Engineering, PhD (2022-present), DGIST, South Korea <br />
+Robotics and Mechatronics Engineering, PhD (2022-2025), DGIST, South Korea <br />
 Engineering Technology, MS (2021), KSU, USA <br />
 Robotics Engineering, MS(2019), DGIST, South Korea <br />
 Mechanical Engineering, BS, MIST, Bangladesh(2016)
 
 ### Skills
-SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex, StarUML
+SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, YOLO, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex, StarUML
 
 ### Projects
 **1. Dual Active Tilted Roller Actuation System (DATRAS) with an electromagnetic actuation system for vascular intervention**
