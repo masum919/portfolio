@@ -90,6 +90,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 - Validated and analyzed magnetic field distributions with ANSYS MAXWELL by comparing with experimental data
 
 ### Publications
+- [Dual Active Tilted Roller Actuation System (DATRAS) with an electromagnetic actuation system for vascular intervention](https://doi.org/10.1038/s44182-025-00023-6)
 - [Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles](https://doi.org/10.1002/aisy.202300793)
 - [Autonomous 3D positional control of a magnetic microrobots using reinforcement learning](https://doi.org/10.1038/s42256-023-00779-2)
 - [Development of a Self-Decoupled Wire-Driven Robotic Universal Joint Toward Medical Application](https://doi.org/10.1115/DMD2022-1016)
