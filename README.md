@@ -89,6 +89,24 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 - Developed a simulation model for an 8 core Electromagnetic Actuation System 
 - Validated and analyzed magnetic field distributions with ANSYS MAXWELL by comparing with experimental data
 
+**7. Electrocochleography Probe Module** <br />
+     An integrated and ergonomic ECochG probe that combines a vision/camera module and stable mounting of transducer and electrode
+
+![Image](https://github.com/user-attachments/assets/82d7901e-36dc-4905-a5b0-d18121aa0ad7)
+
+- Mounts camera, transducer and electrode together in a stable and ergonic fashion
+- Stability of transducer reduces signal noise
+
+**7. Remote Swab Robot** <br />
+     A concept remote swab module developed during COVID
+
+![Image](https://github.com/user-attachments/assets/1c1422a3-876d-4ffa-a5b4-6a762909daa5)
+![Image](https://github.com/user-attachments/assets/283afc86-eeb2-4024-af86-9ac0b7d6e836)
+
+- Light-weight due to wire actuation mechanism
+- Integrated vision with simple phone mount mechanism
+- 3 DOF robot
+
 ### Publications
 - [Dual Active Tilted Roller Actuation System (DATRAS) with an electromagnetic actuation system for vascular intervention](https://doi.org/10.1038/s44182-025-00023-6)
 - [Virtual Reality-Enabled Intuitive Magnetic Manipulation of Microrobots and Nanoparticles](https://doi.org/10.1002/aisy.202300793)
