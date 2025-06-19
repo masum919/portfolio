@@ -97,7 +97,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
 - Mounts camera, transducer and electrode together in a stable and ergonic fashion
 - Stability of transducer reduces signal noise
 
-**7. Remote Swab Robot** <br />
+**8. Remote Swab Robot** <br />
      A concept remote swab module developed during COVID
 
 ![Image](https://github.com/user-attachments/assets/1c1422a3-876d-4ffa-a5b4-6a762909daa5)
