@@ -135,5 +135,4 @@ DGIST Presidential Fellowship
 - English (Advanced)
 - Korean (Beginner- TOPIK 1 Level 2)
   
-### Visa Status
-Korean residency holder - no visa sponsorship required
+### Korean Residency Holder
