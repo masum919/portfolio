@@ -129,3 +129,11 @@ DGIST Presidential Fellowship
 - [A ros2 control implementation of a custom hardware interface (arduino) to send motor commands](https://github.com/masum919/ros2_control_custom_hardware_interface)
 - [A simple example of simulating a differential drive robot in Gazebo Harmonic](https://github.com/masum919/DiffDrive_Hyundai_Kona_ROS2_Gazebo_Harmonic)
 - [FANUC LR MATE 200iD Robot Arm Simulation ROS2](https://github.com/masum919/FANUC-LR-MATE200i)
+
+### Languages
+- Bangla (Native)
+- English (Advanced)
+- Korean (Beginner- TOPIK 1 Level 2)
+  
+### Visa Status
+Korean residency holder - no visa sponsorship required
