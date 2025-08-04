@@ -6,8 +6,11 @@ Engineering Technology, MS (2021), KSU, USA <br />
 Robotics Engineering, MS(2019), DGIST, South Korea <br />
 Mechanical Engineering, BS, MIST, Bangladesh(2016)
 
-### Skills
+### Software
 SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mechanical, Unity 3D, Blender, Arduino, Python, C, C#, C++, OpenCV, YOLO, ROS2 (Robot Operating System), Gazebo, FANUC ROBOGUIDE, Altium Designer, Proteus, LaTex, StarUML
+
+### Hardware
+Motors (Maxon BLDC, DC), Controllers (ESCON, EPOS), Force and torque sensors, FemtoTools (micro force sensor), Electromagnetic Actuation Systems, FANUC 6 axis robot-LR MATE 200iD
 
 ### Projects
 **1. Dual Active Tilted Roller Actuation System (DATRAS) with an electromagnetic actuation system for vascular intervention**
@@ -18,6 +21,7 @@ SolidWorks, MATLAB, MATLAB Robotics Toolbox, Simulink, ANSYS MAXWELL, ANSYS Mech
    - Extremely modular and cheap
    - Does not require a robotic arm or support structure
    - VR based teleoperation interface
+   - Intuitve control and natural 3D position visualization
 
 
    ![Image](https://github.com/user-attachments/assets/602f589c-460f-4cc5-8807-4042769d66f1)
@@ -121,6 +125,7 @@ DGIST Presidential Fellowship
 - DGIST Presidential Fellowship (4 year scholarship for outstanding students)
   
 ### Git Repo
+- [Write a custom ros2_control controller from scratch](https://github.com/masum919/my_custom_controller)
 - [A ros2 control implementation of a custom hardware interface (arduino) to send motor commands](https://github.com/masum919/ros2_control_custom_hardware_interface)
 - [A simple example of simulating a differential drive robot in Gazebo Harmonic](https://github.com/masum919/DiffDrive_Hyundai_Kona_ROS2_Gazebo_Harmonic)
 - [FANUC LR MATE 200iD Robot Arm Simulation ROS2](https://github.com/masum919/FANUC-LR-MATE200i)
